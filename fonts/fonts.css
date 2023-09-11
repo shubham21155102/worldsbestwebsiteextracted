@@ -1,0 +1,25 @@
+/* @font-face {
+  font-family: 'soehne-schmal-fett';
+  src:
+    url('/fonts/soehne/soehne-schmal-web-fett.woff2') format('woff2'),
+    url('/fonts/soehne/soehne-schmal-web-fett.woff') format('woff');
+} */
+@font-face {
+  font-family: 'dnlsptzk';
+  src: url('dnlsptzk/dnlsptzk.woff2') format('woff2'),
+    url('dnlsptzk/dnlsptzk.woff') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'sang-bleu';
+  src: url('sangbleu/SangBleuOGSerif-Regular-WebS.woff2') format('woff2'),
+    url('sangbleu/SangBleuOGSerif-Regular-WebS.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'suisse-book';
+  src: url('suisse/SuisseIntl-Book-WebM.woff2') format('woff2'),
+    url('suisse/SuisseIntl-Book-WebM.woff') format('woff');
+  font-display: swap;
+}
